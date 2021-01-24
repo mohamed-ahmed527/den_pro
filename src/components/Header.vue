@@ -81,6 +81,7 @@ export default {
 @media (max-width:992px){
 .parent .container .row .htext h1{
   width: 100%;
+  font-size: 50px;
 }
 }
 </style>
