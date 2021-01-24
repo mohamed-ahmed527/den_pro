@@ -72,16 +72,16 @@
           <div class="con4">
             <h2> Instagram </h2>
             <div class="row">
-              <div class="col-xs-6">
+              <div class="col-lg-3 col-ms-6 col-sm-6 col-xs-6">
                 <img src="../assets/images/about-img2.png"/>
               </div>
-              <div class="col-xs-6">
+              <div class="col-lg-3 col-ms-6 col-sm-6 col-xs-6">
                 <img src="../assets/images/about-img3.png"/>
               </div>
-              <div class="col-xs-6">
+              <div class="col-lg-3 col-ms-6 col-sm-6 col-xs-6">
                 <img src="../assets/images/about-img4.png"/>
               </div>
-              <div class="col-xs-6">
+              <div class="col-lg-3 col-ms-6 col-sm-6 col-xs-6">
                 <img src="../assets/images/about-img5.png"/>
               </div>
             </div>
