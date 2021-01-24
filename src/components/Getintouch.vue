@@ -100,5 +100,9 @@ export default {
 .parent .container .row .col-xs-12 .gettext form {
     padding: 5px;
 }
+.parent .container{
+  width:90%;
+  margin:auto;
+}
 }
 </style>
