@@ -76,5 +76,8 @@ export default {
   .parent .container .row .atext{
     margin-left:0px;
   }
+  .parent .container .row .aimg img{
+    width: 100%;
+  }
 }
 </style>
