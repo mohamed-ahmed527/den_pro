@@ -70,6 +70,9 @@ export default {
 }
 
 @media (max-width:992px) {
+.parent{
+  margin-top:0px;
+}
   .parent .container .row .aimg img{
     transform: scale(0.7);
   }
