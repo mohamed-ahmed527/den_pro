@@ -183,7 +183,7 @@ $mostcolor:#fa3e19;
             }
             >.row{
               display: flex;
-              >.col-md-6{
+              >.col-xs-6{
                 margin-bottom: 15px;
                 img{
                   width: 100%;
