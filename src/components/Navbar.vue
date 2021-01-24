@@ -67,9 +67,12 @@ export default {
 
 }
 .menu{
+    overflow: hidden;
     display: none;
+    margin-bottom:20px;
     >img{
-        float: left;    
+        float: left;  
+        width: 100px;
     }
     span{
         float: right;
