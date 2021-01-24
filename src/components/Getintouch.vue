@@ -96,5 +96,9 @@ export default {
       }
     }
   }
-
+@media (max-width:992px){
+.parent .container .row .col-xs-12 .gettext form {
+    padding: 5px;
+}
+}
 </style>
