@@ -3,7 +3,7 @@
     <div class="container">
       <h1> Contact Us </h1>
       <div class="row">
-        <div class="col-md-3 col-xs-12">
+        <div class="col-lg-3 col-xs-12">
           <div class="con1">
             <h2> Address </h2>
             <div class="add1">
@@ -20,7 +20,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-3 col-xs-12">
+        <div class="col-lg-3 col-xs-12">
           <div class="con2">
             <h2> Useful Links </h2>
             <div class="add1">
@@ -45,7 +45,7 @@
             </div>            
           </div>
         </div>
-        <div class="col-md-3 col-xs-12">
+        <div class="col-lg-3 col-xs-12">
           <div class="con2">
             <h2> Overview </h2>
             <div class="add1">
@@ -68,7 +68,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-3 col-xs-12">
+        <div class="col-lg-3 col-xs-12">
           <div class="con4">
             <h2> Instagram </h2>
             <div class="row">
